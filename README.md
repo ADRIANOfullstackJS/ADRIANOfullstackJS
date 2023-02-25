@@ -1,9 +1,9 @@
 ## Bem-vindo ao perfil do Adriano Pereira!😃
 
-![WALLPAPER PROGRAMING](https://user-images.githubusercontent.com/113852147/220790420-57d93de2-e94c-49b9-9528-7f59b9cc4725.png)
+![WALLPAPER PROGRAMING (1)](https://user-images.githubusercontent.com/113852147/221328404-8775e5bb-c11a-445a-a03c-109dfdbe533b.png)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/113852147/219984819-beaf4aa7-8ce2-48f7-aaca-5718e12deaa0.png"  height="0"  width="0px"/>
+  <img src="[https://user-images.githubusercontent.com/113852147/219984819-beaf4aa7-8ce2-48f7-aaca-5718e12deaa0.png](https://user-images.githubusercontent.com/113852147/221328404-8775e5bb-c11a-445a-a03c-109dfdbe533b.png)"  height="0"  width="0px"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ADRIANOfullstackJS&bg_color=090e0f&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
