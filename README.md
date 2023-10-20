@@ -6,8 +6,6 @@
   <img src="[https://user-images.githubusercontent.com/113852147/219984819-beaf4aa7-8ce2-48f7-aaca-5718e12deaa0.png](https://user-images.githubusercontent.com/113852147/221328404-8775e5bb-c11a-445a-a03c-109dfdbe533b.png)"  height="0"  width="0px"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### Clique nos botões abaixo para acessar minhas redes de contato!
  
 <div>
